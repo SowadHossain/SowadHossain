@@ -1,12 +1,10 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hello, I'm Sowad Hossain
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32" /> Hey, I’m **Sowad Hossain**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=440&lines=Software+Developer;Problem+Solver;Continuous+Learner;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=2800\&pause=900\&color=2F81F7\&center=true\&vCenter=true\&width=620\&lines=Full-Stack+Developer;SaaS+%26+Dashboard+Builder;Automation+Enthusiast;I+ship+fast%2C+clean%2C+and+reliable)](https://git.io/typing-svg)
 
-<p align="center">
-  <i>Passionate about building elegant solutions to complex problems</i>
-</p>
+<i>Friendly by default. Creative at heart. Obsessed with smooth UX and tidy code.</i>
 
 </div>
 
@@ -16,88 +14,129 @@
 
 ```javascript
 const sowad = {
-    location: "🌍 World",
-    code: ["JavaScript", "Python", "Java", "C++"],
-    interests: ["Web Development", "Machine Learning", "Open Source"],
-    currentFocus: "Building impactful projects and learning new technologies",
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+    name: "Sowad Hossain",
+    role: "Full-Stack Developer 💻",
+    location: "🌍 Planet Earth (mostly online)",
+    code: ["JavaScript", "Python", "Java", "C++", "TypeScript"],
+    tools: ["React", "Node.js", "Docker", "Git", "VS Code"],
+    passions: ["Web Development", "Automation", "Clean UI", "Open Source"],
+    currently: "Turning caffeine into scalable SaaS and sleek dashboards ☕",
+    learning: ["Next.js", "DevOps", "System Design"],
+    quote: "If it works, ship it. If it breaks, learn fast and fix faster 🚀",
+    funFact: "console.log() and I have a love-hate relationship 😄"
 };
 ```
 
 ---
 
-### 💻 Tech Stack
+## 🌟 Highlights
+
+* Building SaaS apps, admin dashboards, and workflow automations.
+* I value **clarity**, **consistency**, and **performance** over noise.
+* Currently open to interesting collaborations.
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<table>
+  <tr>
+    <td align="center">![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)</td>
+    <td align="center">![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)</td>
+    <td align="center">![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)</td>
+    <td align="center">![C++](https://img.shields.io/badge/C%2B%2B-111?style=for-the-badge&logo=c%2B%2B)</td>
+    <td align="center">![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)</td>
+  </tr>
+  <tr>
+    <td align="center">![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)</td>
+    <td align="center">![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs)</td>
+    <td align="center">![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)</td>
+    <td align="center">![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)</td>
+    <td align="center">![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)</td>
+  </tr>
+</table>
+
+</div>
+
+> *Full stack with a bias toward simplicity. If it’s not maintainable, it’s not done.*
+
+---
+
+## 🚀 Selected Work (Live Demos)
+
+<div align="center">
+
+|          Project         | Description                                                                      |                                                                        Link                                                                       |
+| :----------------------: | :------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
+| 🏋️‍♂️ **Prime Fitness** | A fitness tracking & management platform with modern UI and analytics dashboard. |    <a href="https://prime-fitness.sowadh.me/" target="_blank"><img src="https://img.shields.io/badge/Open-Live-blue?style=for-the-badge"/></a>    |
+|    🛒 **ShobShopping**   | E-commerce experience focused on clean UX and responsive performance.            |        <a href="https://shobshopping.com/" target="_blank"><img src="https://img.shields.io/badge/Open-Live-blue?style=for-the-badge"/></a>       |
+|        🚀 **10x**        | Growth and operations tooling SaaS with automation backbone.                     |         <a href="https://10x.sowadh.me/" target="_blank"><img src="https://img.shields.io/badge/Open-Live-blue?style=for-the-badge"/></a>         |
+|    🏢 **CondoGestoin**   | Property management dashboard for streamlined resident & admin interaction.      | <a href="https://condogestoin.sowadh.me/#/login" target="_blank"><img src="https://img.shields.io/badge/Open-Live-blue?style=for-the-badge"/></a> |
+|      👔 **Fursume**      | Developer portfolio and resume builder in progress.                              |        <a href="https://dev.fursume.com/" target="_blank"><img src="https://img.shields.io/badge/Open-Live-blue?style=for-the-badge"/></a>        |
+|      👕 **Wardrobe**     | Smart wardrobe management and outfit recommendation demo.                        |       <a href="http://wardrobe.sowadh.me/" target="_blank"><img src="https://img.shields.io/badge/Open-Live-blue?style=for-the-badge"/></a>       |
+
+</div>
+
+➡️ **Explore the full portfolio** → [sowadh.me](https://sowadh.me)
+
+---
+
+## 🧪 Building Now
+
+* **Bugination** — lightweight issue tracking & triage (WIP) → [bugination.sowadh.me](https://bugination.sowadh.me/)
+* **Wardrobe** — personal wardrobe organizer (WIP) → [wardrobe.sowadh.me](http://wardrobe.sowadh.me/)
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SowadHossain\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&title_color=2F81F7\&icon_color=2F81F7\&text_color=C9D1D9)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SowadHossain\&theme=tokyonight\&hide_border=true\&background=0D1117\&ring=2F81F7\&fire=2F81F7\&currStreakLabel=2F81F7)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SowadHossain\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&title_color=2F81F7\&text_color=C9D1D9)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 🪄 Contribution Graph
 
 <div align="center">
-  
-![Sowad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SowadHossain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SowadHossain&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SowadHossain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9)
+[![Sowad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SowadHossain\&theme=tokyo-night\&hide_border=true\&bg_color=0D1117\&color=2F81F7\&line=2F81F7\&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🤙 Contact
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SowadHossain&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+|     Platform     |                                                                           Link                                                                           |
+| :--------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  💼 **LinkedIn** | <a href="https://www.linkedin.com/in/sowad-hossain" target="_blank"><img src="https://img.shields.io/badge/Open-LinkedIn-blue?style=for-the-badge"/></a> |
+|   ✉️ **Email**   |            <a href="mailto:contact@sowadh.me" target="_blank"><img src="https://img.shields.io/badge/Send-Email-red?style=for-the-badge"/></a>           |
+| 🌐 **Portfolio** |            <a href="https://sowadh.me/" target="_blank"><img src="https://img.shields.io/badge/View-Portfolio-black?style=for-the-badge"/></a>           |
 
 </div>
 
 ---
 
-### 📈 Activity Graph
+## 🧠 Quote I like
 
-<div align="center">
-
-[![Sowad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SowadHossain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sowad-hossain)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sowad_hossain)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-
-</div>
+> “I don't want to live in a world where someone else makes the world a better place better than we do.”
+> — *Gavin Belson, Silicon Valley*
 
 ---
 
 <div align="center">
-  
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=SowadHossain&color=2F81F7&style=flat-square&label=Profile+Views)
-
-**Thanks for visiting! 😊**
+<sub>Thanks for stopping by! If something sparks, let’s build it.</sub>
 
 </div>
