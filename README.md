@@ -2,17 +2,16 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32" /> Hey, I’m **Sowad Hossain**
 
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=2400\&pause=800\&color=7C3AED\&center=true\&vCenter=true\&width=650\&lines=Full-Stack+Developer;SaaS+%26+Dashboard+Builder;Automation+Enthusiast;Minimalist+UX+%7C+Max+Impact)](https://git.io/typing-svg)
 
 <i>Friendly by default. Creative at heart. Obsessed with smooth UX and tidy code.</i>
 
-<!-- animated gradient divider -->
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0ea5e9,50:8b5cf6,100:22d3ee&height=90&section=header"/>
 
 </div>
 
----
+<br>
 
 ### 🚀 About Me
 
@@ -31,7 +30,7 @@ const sowad = {
 };
 ```
 
----
+<br>
 
 ## ⚡ Highlights
 
@@ -39,11 +38,10 @@ const sowad = {
 
 <a href="#"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%90&message=Crafting+SaaS+%26+Dashboards&labelColor=111&color=7C3AED&style=for-the-badge" /></a> <a href="#"><img src="https://img.shields.io/static/v1?label=%F0%9F%A7%A0&message=Automation+Addict&labelColor=111&color=22D3EE&style=for-the-badge" /></a> <a href="#"><img src="https://img.shields.io/static/v1?label=%F0%9F%8E%A8&message=UI+Minimalist&labelColor=111&color=6366F1&style=for-the-badge" /></a> <a href="#"><img src="https://img.shields.io/static/v1?label=%F0%9F%9A%80&message=Forever+Learning&labelColor=111&color=0EA5E9&style=for-the-badge" /></a> <a href="#"><img src="https://img.shields.io/static/v1?label=%F0%9F%92%A1&message=Open+to+Collabs&labelColor=111&color=8B5CF6&style=for-the-badge" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:8b5cf6&height=4&section=footer"/>
 
 </div>
 
----
+<br>
 
 ## 🧰 Tech Stack
 
@@ -64,13 +62,12 @@ const sowad = {
   <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:8b5cf6&height=4&section=footer"/>
 
 </div>
 
 > *Full stack with a bias toward simplicity. If it’s not maintainable, it’s not done.*
 
----
+<br><br>
 
 ## 🚀 Selected Work (Live Demos)
 
@@ -82,20 +79,21 @@ const sowad = {
 
 **🏢 CondoGestoin** — Property management dashboard for residents & admins. <a href="https://condogestoin.sowadh.me/#/login" target="_blank"><img src="https://img.shields.io/static/v1?label=Open+Live&message=%F0%9F%9A%80&labelColor=111&color=8b5cf6&style=for-the-badge"/></a>
 
-**👔 Fursume** — Developer profile & résumé builder (dev). <a href="https://dev.fursume.com/" target="_blank"><img src="https://img.shields.io/static/v1?label=Open+Live&message=%F0%9F%9A%80&labelColor=111&color=6366F1&style=for-the-badge"/></a>
+**👔 Fursume** — AI pet Resume and Travel Pass Builder (dev). <a href="https://dev.fursume.com/" target="_blank"><img src="https://img.shields.io/static/v1?label=Open+Live&message=%F0%9F%9A%80&labelColor=111&color=6366F1&style=for-the-badge"/></a>
 
-**👕 Wardrobe** — Smart wardrobe management & outfit suggestions (demo). <a href="http://wardrobe.sowadh.me/" target="_blank"><img src="https://img.shields.io/static/v1?label=Open+Live&message=%F0%9F%9A%80&labelColor=111&color=06b6d4&style=for-the-badge"/></a>
+**👕 Wardrobe** — Inventory management and billing softwere (mobile First) for Clothing brands (demo). <a href="http://wardrobe.sowadh.me/" target="_blank"><img src="https://img.shields.io/static/v1?label=Open+Live&message=%F0%9F%9A%80&labelColor=111&color=06b6d4&style=for-the-badge"/></a>
 
 ➡️ **Explore the full portfolio** → [sowadh.me](https://sowadh.me)
 
----
+
 
 ## 🧪 Building Now
 
 * **Bugination** — lightweight issue tracking & triage (WIP) → [bugination.sowadh.me](https://bugination.sowadh.me/)
-* **Wardrobe** — personal wardrobe organizer (WIP) → [wardrobe.sowadh.me](http://wardrobe.sowadh.me/)
+* **Wardrobe** — Inventory management and billing softwere (mobile First) for Clothing brands (WIP) → [wardrobe.sowadh.me](http://wardrobe.sowadh.me/)
 
----
+
+<br>
 
 ## 📊 GitHub Overview
 
@@ -109,7 +107,8 @@ const sowad = {
 
 </div>
 
----
+
+<br><br>
 
 ## 🪄 Contribution Graph
 
@@ -119,7 +118,7 @@ const sowad = {
 
 </div>
 
----
+<br>
 
 ## 🤙 Contact
 
@@ -129,19 +128,17 @@ const sowad = {
 
 </div>
 
----
+<br>
 
 ## 🧠 Quote I like
 
 > “I don't want to live in a world where someone else makes the world a better place better than we do.”
 > — *Gavin Belson, Silicon Valley*
 
----
+
 
 <div align="center">
 
 <sub>Thanks for stopping by! If something sparks, let’s build it.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:22d3ee,50:8b5cf6,100:0ea5e9&height=80&section=footer"/>
 
 </div>
