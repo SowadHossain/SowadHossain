@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=2400\&pause=800\&color=7C3AED\&center=true\&vCenter=true\&width=650\&lines=Full-Stack+Developer;SaaS+%26+Dashboard+Builder;Automation+Enthusiast;Minimalist+UX+%7C+Max+Impact)](https://git.io/typing-svg)
+<img src="assets/typing.svg" alt="Typing SVG" />
 
 <i>Friendly by default. Creative at heart. Obsessed with smooth UX and tidy code.</i>
 
@@ -99,11 +99,11 @@ const sowad = {
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SowadHossain\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&title_color=7C3AED\&icon_color=22D3EE\&text_color=C9D1D9)
+<img src="assets/stats.svg" alt="GitHub Stats" />
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SowadHossain\&theme=tokyonight\&hide_border=true\&background=0D1117\&ring=22D3EE\&fire=7C3AED\&currStreakLabel=7C3AED)
+<img src="assets/streak.svg" alt="Streak Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SowadHossain\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&title_color=7C3AED\&text_color=C9D1D9)
+<img src="assets/languages.svg" alt="Top Languages" />
 
 </div>
 
@@ -114,7 +114,7 @@ const sowad = {
 
 <div align="center">
 
-[![Sowad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SowadHossain\&theme=tokyo-night\&hide_border=true\&bg_color=0D1117\&color=22D3EE\&line=7C3AED\&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="assets/contribution-graph.svg" alt="Contribution Graph" />
 
 </div>
 

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="315" viewBox="0 0 450 315">
+    <style>
+      @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+      text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; }
+    </style>
+    
+    <defs>
+      <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#7C3AED"/>
+        <stop offset="100%" stop-color="#22D3EE"/>
+      </linearGradient>
+      <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0D1117"/>
+        <stop offset="100%" stop-color="#161B22"/>
+      </linearGradient>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="3" result="blur"/>
+        <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
+    </defs>
+    
+    <rect width="450" height="315" rx="12" fill="url(#bgGrad)" stroke="rgba(139,92,246,0.3)" stroke-width="1"/>
+    <rect width="450" height="315" rx="12" fill="none" stroke="url(#accentGrad)" stroke-width="0.5" opacity="0.4"/>
+    <g opacity="0" style="animation: fadeIn 0.6s ease 0s forwards">
+      <text x="30" y="38" font-size="18" font-weight="700" fill="#FFFFFF">Sowad's GitHub Stats</text>
+      <rect x="30" y="48" width="60" height="3" rx="1.5" fill="url(#accentGrad)"/>
+    </g>
+    
+        <g opacity="0" style="animation: fadeIn 0.6s ease 0.1s forwards">
+          <text x="30" y="70" font-size="15" fill="#C9D1D9">⭐ Total Stars</text>
+          <text x="420" y="70" font-size="16" font-weight="600" fill="#22D3EE" text-anchor="end">3</text>
+          <line x1="30" y1="82" x2="420" y2="82" stroke="#8B949E" stroke-width="0.3" opacity="0.3"/>
+        </g>
+        <g opacity="0" style="animation: fadeIn 0.6s ease 0.2s forwards">
+          <text x="30" y="108" font-size="15" fill="#C9D1D9">🔥 Total Commits</text>
+          <text x="420" y="108" font-size="16" font-weight="600" fill="#22D3EE" text-anchor="end">68</text>
+          <line x1="30" y1="120" x2="420" y2="120" stroke="#8B949E" stroke-width="0.3" opacity="0.3"/>
+        </g>
+        <g opacity="0" style="animation: fadeIn 0.6s ease 0.30000000000000004s forwards">
+          <text x="30" y="146" font-size="15" fill="#C9D1D9">🔀 Pull Requests</text>
+          <text x="420" y="146" font-size="16" font-weight="600" fill="#22D3EE" text-anchor="end">4</text>
+          <line x1="30" y1="158" x2="420" y2="158" stroke="#8B949E" stroke-width="0.3" opacity="0.3"/>
+        </g>
+        <g opacity="0" style="animation: fadeIn 0.6s ease 0.4s forwards">
+          <text x="30" y="184" font-size="15" fill="#C9D1D9">📋 Issues</text>
+          <text x="420" y="184" font-size="16" font-weight="600" fill="#22D3EE" text-anchor="end">15</text>
+          <line x1="30" y1="196" x2="420" y2="196" stroke="#8B949E" stroke-width="0.3" opacity="0.3"/>
+        </g>
+        <g opacity="0" style="animation: fadeIn 0.6s ease 0.5s forwards">
+          <text x="30" y="222" font-size="15" fill="#C9D1D9">📦 Repositories</text>
+          <text x="420" y="222" font-size="16" font-weight="600" fill="#22D3EE" text-anchor="end">70</text>
+          <line x1="30" y1="234" x2="420" y2="234" stroke="#8B949E" stroke-width="0.3" opacity="0.3"/>
+        </g>
+        <g opacity="0" style="animation: fadeIn 0.6s ease 0.6s forwards">
+          <text x="30" y="260" font-size="15" fill="#C9D1D9">👥 Followers</text>
+          <text x="420" y="260" font-size="16" font-weight="600" fill="#22D3EE" text-anchor="end">9</text>
+          <line x1="30" y1="272" x2="420" y2="272" stroke="#8B949E" stroke-width="0.3" opacity="0.3"/>
+        </g>
+    </svg>
