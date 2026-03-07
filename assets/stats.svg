@@ -48,7 +48,7 @@
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.5s forwards">
           <text x="30" y="222" font-size="15" fill="#C9D1D9">📦 Repositories</text>
-          <text x="420" y="222" font-size="16" font-weight="600" fill="#22D3EE" text-anchor="end">70</text>
+          <text x="420" y="222" font-size="16" font-weight="600" fill="#22D3EE" text-anchor="end">37</text>
           <line x1="30" y1="234" x2="420" y2="234" stroke="#8B949E" stroke-width="0.3" opacity="0.3"/>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.6s forwards">
