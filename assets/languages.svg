@@ -33,7 +33,7 @@
       <rect x="30" y="55" width="390" height="8" rx="4" fill="#0D1117"/>
       <clipPath id="barClip"><rect x="30" y="55" width="390" height="8" rx="4"/></clipPath>
       <g clip-path="url(#barClip)" style="transform-origin: 30px center; animation: barGrow 1s ease 0.3s both">
-        <rect x="30" y="55" width="108.81" height="8" rx="4" fill="#dea584"/><rect x="138.81" y="55" width="99.84" height="8" rx="4" fill="#4F5D95"/><rect x="238.65" y="55" width="78.39000000000001" height="8" rx="4" fill="#3178c6"/><rect x="317.04" y="55" width="53.04" height="8" rx="4" fill="#f1e05a"/><rect x="370.08000000000004" y="55" width="19.110000000000003" height="8" rx="4" fill="#555555"/><rect x="389.19000000000005" y="55" width="11.31" height="8" rx="4" fill="#e34c26"/><rect x="400.50000000000006" y="55" width="9.75" height="8" rx="4" fill="#199f4b"/><rect x="410.25000000000006" y="55" width="9.75" height="8" rx="4" fill="#b07219"/>
+        <rect x="30" y="55" width="106.86" height="8" rx="4" fill="#dea584"/><rect x="136.86" y="55" width="97.89" height="8" rx="4" fill="#4F5D95"/><rect x="234.75" y="55" width="76.44000000000001" height="8" rx="4" fill="#3178c6"/><rect x="311.19" y="55" width="51.87" height="8" rx="4" fill="#f1e05a"/><rect x="363.06" y="55" width="19.110000000000003" height="8" rx="4" fill="#e34c26"/><rect x="382.17" y="55" width="18.72" height="8" rx="4" fill="#555555"/><rect x="400.89" y="55" width="9.75" height="8" rx="4" fill="#199f4b"/><rect x="410.64" y="55" width="9.36" height="8" rx="4" fill="#b07219"/>
       </g>
     </g>
 
@@ -42,32 +42,32 @@
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.2s forwards">
           <circle cx="36" cy="81" r="5" fill="#dea584"/>
           <text x="48" y="85" font-size="12" fill="#C9D1D9">Rust</text>
-          <text x="200" y="85" font-size="12" fill="#8B949E" text-anchor="end">27.9%</text>
+          <text x="200" y="85" font-size="12" fill="#8B949E" text-anchor="end">27.4%</text>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.28s forwards">
           <circle cx="236" cy="81" r="5" fill="#4F5D95"/>
           <text x="248" y="85" font-size="12" fill="#C9D1D9">PHP</text>
-          <text x="400" y="85" font-size="12" fill="#8B949E" text-anchor="end">25.6%</text>
+          <text x="400" y="85" font-size="12" fill="#8B949E" text-anchor="end">25.1%</text>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.36s forwards">
           <circle cx="36" cy="109" r="5" fill="#3178c6"/>
           <text x="48" y="113" font-size="12" fill="#C9D1D9">TypeScript</text>
-          <text x="200" y="113" font-size="12" fill="#8B949E" text-anchor="end">20.1%</text>
+          <text x="200" y="113" font-size="12" fill="#8B949E" text-anchor="end">19.6%</text>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.44s forwards">
           <circle cx="236" cy="109" r="5" fill="#f1e05a"/>
           <text x="248" y="113" font-size="12" fill="#C9D1D9">JavaScript</text>
-          <text x="400" y="113" font-size="12" fill="#8B949E" text-anchor="end">13.6%</text>
+          <text x="400" y="113" font-size="12" fill="#8B949E" text-anchor="end">13.3%</text>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.52s forwards">
-          <circle cx="36" cy="137" r="5" fill="#555555"/>
-          <text x="48" y="141" font-size="12" fill="#C9D1D9">C</text>
+          <circle cx="36" cy="137" r="5" fill="#e34c26"/>
+          <text x="48" y="141" font-size="12" fill="#C9D1D9">HTML</text>
           <text x="200" y="141" font-size="12" fill="#8B949E" text-anchor="end">4.9%</text>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.6000000000000001s forwards">
-          <circle cx="236" cy="137" r="5" fill="#e34c26"/>
-          <text x="248" y="141" font-size="12" fill="#C9D1D9">HTML</text>
-          <text x="400" y="141" font-size="12" fill="#8B949E" text-anchor="end">2.9%</text>
+          <circle cx="236" cy="137" r="5" fill="#555555"/>
+          <text x="248" y="141" font-size="12" fill="#C9D1D9">C</text>
+          <text x="400" y="141" font-size="12" fill="#8B949E" text-anchor="end">4.8%</text>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.6799999999999999s forwards">
           <circle cx="36" cy="165" r="5" fill="#199f4b"/>
@@ -77,6 +77,6 @@
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.76s forwards">
           <circle cx="236" cy="165" r="5" fill="#b07219"/>
           <text x="248" y="169" font-size="12" fill="#C9D1D9">Java</text>
-          <text x="400" y="169" font-size="12" fill="#8B949E" text-anchor="end">2.5%</text>
+          <text x="400" y="169" font-size="12" fill="#8B949E" text-anchor="end">2.4%</text>
         </g>
     </svg>

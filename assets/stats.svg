@@ -33,12 +33,12 @@
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.2s forwards">
           <text x="30" y="108" font-size="15" fill="#C9D1D9">🔥 Total Commits</text>
-          <text x="420" y="108" font-size="16" font-weight="600" fill="#22D3EE" text-anchor="end">125</text>
+          <text x="420" y="108" font-size="16" font-weight="600" fill="#22D3EE" text-anchor="end">164</text>
           <line x1="30" y1="120" x2="420" y2="120" stroke="#8B949E" stroke-width="0.3" opacity="0.3"/>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.30000000000000004s forwards">
           <text x="30" y="146" font-size="15" fill="#C9D1D9">🔀 Pull Requests</text>
-          <text x="420" y="146" font-size="16" font-weight="600" fill="#22D3EE" text-anchor="end">4</text>
+          <text x="420" y="146" font-size="16" font-weight="600" fill="#22D3EE" text-anchor="end">5</text>
           <line x1="30" y1="158" x2="420" y2="158" stroke="#8B949E" stroke-width="0.3" opacity="0.3"/>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.4s forwards">
