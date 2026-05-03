@@ -28,7 +28,7 @@
     
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.1s forwards">
           <text x="30" y="70" font-size="15" fill="#C9D1D9">⭐ Total Stars</text>
-          <text x="420" y="70" font-size="16" font-weight="600" fill="#22D3EE" text-anchor="end">3</text>
+          <text x="420" y="70" font-size="16" font-weight="600" fill="#22D3EE" text-anchor="end">4</text>
           <line x1="30" y1="82" x2="420" y2="82" stroke="#8B949E" stroke-width="0.3" opacity="0.3"/>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.2s forwards">
