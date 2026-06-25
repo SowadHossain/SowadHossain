@@ -71,26 +71,26 @@ const sowad = {
 
 ## 🚀 Selected Work (Live Demos)
 
-**🏋️‍♂️ Prime Fitness** — Fitness tracking & management with analytics dashboard. <a href="https://prime-fitness.sowadh.me/" target="_blank"><img src="https://img.shields.io/static/v1?label=Open+Live&message=%F0%9F%9A%80&labelColor=111&color=7C3AED&style=for-the-badge"/></a>
+**🏋️‍♂️ Prime Fitness** — Fitness tracking & management with analytics dashboard. <a href="https://prime-fitness.sowad.dev/" target="_blank"><img src="https://img.shields.io/static/v1?label=Open+Live&message=%F0%9F%9A%80&labelColor=111&color=7C3AED&style=for-the-badge"/></a>
 
 **🛒 ShobShopping** — Clean e-commerce experience focused on speed and UX. <a href="https://shobshopping.com/" target="_blank"><img src="https://img.shields.io/static/v1?label=Open+Live&message=%F0%9F%9A%80&labelColor=111&color=0ea5e9&style=for-the-badge"/></a>
 
-**🚀 10x** — Growth & ops tooling with automation backbone (SaaS). <a href="https://10x.sowadh.me/" target="_blank"><img src="https://img.shields.io/static/v1?label=Open+Live&message=%F0%9F%9A%80&labelColor=111&color=22d3ee&style=for-the-badge"/></a>
+**🚀 10x** — Growth & ops tooling with automation backbone (SaaS). <a href="https://10x.sowad.dev/" target="_blank"><img src="https://img.shields.io/static/v1?label=Open+Live&message=%F0%9F%9A%80&labelColor=111&color=22d3ee&style=for-the-badge"/></a>
 
-**🏢 CondoGestoin** — Property management dashboard for residents & admins. <a href="https://condogestoin.sowadh.me/#/login" target="_blank"><img src="https://img.shields.io/static/v1?label=Open+Live&message=%F0%9F%9A%80&labelColor=111&color=8b5cf6&style=for-the-badge"/></a>
+**🏢 CondoGestoin** — Property management dashboard for residents & admins. <a href="https://condogestoin.sowad.dev/#/login" target="_blank"><img src="https://img.shields.io/static/v1?label=Open+Live&message=%F0%9F%9A%80&labelColor=111&color=8b5cf6&style=for-the-badge"/></a>
 
 **👔 Fursume** — AI pet Resume and Travel Pass Builder (dev). <a href="https://dev.fursume.com/" target="_blank"><img src="https://img.shields.io/static/v1?label=Open+Live&message=%F0%9F%9A%80&labelColor=111&color=6366F1&style=for-the-badge"/></a>
 
-**👕 Wardrobe** — Inventory management and billing softwere (mobile First) for Clothing brands (demo). <a href="http://wardrobe.sowadh.me/" target="_blank"><img src="https://img.shields.io/static/v1?label=Open+Live&message=%F0%9F%9A%80&labelColor=111&color=06b6d4&style=for-the-badge"/></a>
+**👕 Wardrobe** — Inventory management and billing softwere (mobile First) for Clothing brands (demo). <a href="http://wardrobe.sowad.dev/" target="_blank"><img src="https://img.shields.io/static/v1?label=Open+Live&message=%F0%9F%9A%80&labelColor=111&color=06b6d4&style=for-the-badge"/></a>
 
-➡️ **Explore the full portfolio** → [sowadh.me](https://sowadh.me)
+➡️ **Explore the full portfolio** → [sowad.dev](https://sowad.dev)
 
 
 
 ## 🧪 Building Now
 
-* **Bugination** — lightweight issue tracking & triage (WIP) → [bugination.sowadh.me](https://bugination.sowadh.me/)
-* **Wardrobe** — Inventory management and billing softwere (mobile First) for Clothing brands (WIP) → [wardrobe.sowadh.me](http://wardrobe.sowadh.me/)
+* **Bugination** — lightweight issue tracking & triage (WIP) → [bugination.sowad.dev](https://bugination.sowad.dev/)
+* **Wardrobe** — Inventory management and billing softwere (mobile First) for Clothing brands (WIP) → [wardrobe.sowad.dev](http://wardrobe.sowad.dev/)
 
 
 <br>
@@ -124,7 +124,7 @@ const sowad = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sowad-hossain" target="_blank"><img src="https://img.shields.io/static/v1?label=Connect&message=LinkedIn&labelColor=111&color=0A66C2&style=for-the-badge"/></a> <a href="mailto:contact@sowadh.me" target="_blank"><img src="https://img.shields.io/static/v1?label=Say+Hi&message=Email&labelColor=111&color=ef4444&style=for-the-badge"/></a> <a href="https://sowadh.me/" target="_blank"><img src="https://img.shields.io/static/v1?label=See+More&message=Portfolio&labelColor=111&color=000000&style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/sowad-hossain" target="_blank"><img src="https://img.shields.io/static/v1?label=Connect&message=LinkedIn&labelColor=111&color=0A66C2&style=for-the-badge"/></a> <a href="mailto:contact@sowad.dev" target="_blank"><img src="https://img.shields.io/static/v1?label=Say+Hi&message=Email&labelColor=111&color=ef4444&style=for-the-badge"/></a> <a href="https://sowad.dev/" target="_blank"><img src="https://img.shields.io/static/v1?label=See+More&message=Portfolio&labelColor=111&color=000000&style=for-the-badge"/></a>
 
 </div>
 
