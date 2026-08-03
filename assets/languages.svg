@@ -33,7 +33,7 @@
       <rect x="30" y="55" width="390" height="8" rx="4" fill="#0D1117"/>
       <clipPath id="barClip"><rect x="30" y="55" width="390" height="8" rx="4"/></clipPath>
       <g clip-path="url(#barClip)" style="transform-origin: 30px center; animation: barGrow 1s ease 0.3s both">
-        <rect x="30" y="55" width="204.36" height="8" rx="4" fill="#4F5D95"/><rect x="234.36" y="55" width="101.79" height="8" rx="4" fill="#f1e05a"/><rect x="336.15000000000003" y="55" width="44.85" height="8" rx="4" fill="#663399"/><rect x="381.00000000000006" y="55" width="18.33" height="8" rx="4" fill="#f7523f"/><rect x="399.33000000000004" y="55" width="8.19" height="8" rx="4" fill="#3572A5"/><rect x="407.52000000000004" y="55" width="7.41" height="8" rx="4" fill="#41b883"/><rect x="414.93000000000006" y="55" width="2.73" height="8" rx="4" fill="#3178c6"/><rect x="417.6600000000001" y="55" width="2.34" height="8" rx="4" fill="#dea584"/>
+        <rect x="30" y="55" width="203.97" height="8" rx="4" fill="#4F5D95"/><rect x="233.97" y="55" width="101.4" height="8" rx="4" fill="#f1e05a"/><rect x="335.37" y="55" width="44.46" height="8" rx="4" fill="#663399"/><rect x="379.83" y="55" width="18.33" height="8" rx="4" fill="#f7523f"/><rect x="398.15999999999997" y="55" width="9.36" height="8" rx="4" fill="#3572A5"/><rect x="407.52" y="55" width="7.41" height="8" rx="4" fill="#41b883"/><rect x="414.93" y="55" width="2.73" height="8" rx="4" fill="#3178c6"/><rect x="417.66" y="55" width="2.34" height="8" rx="4" fill="#dea584"/>
       </g>
     </g>
 
@@ -42,17 +42,17 @@
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.2s forwards">
           <circle cx="36" cy="81" r="5" fill="#4F5D95"/>
           <text x="48" y="85" font-size="12" fill="#C9D1D9">PHP</text>
-          <text x="200" y="85" font-size="12" fill="#8B949E" text-anchor="end">52.4%</text>
+          <text x="200" y="85" font-size="12" fill="#8B949E" text-anchor="end">52.3%</text>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.28s forwards">
           <circle cx="236" cy="81" r="5" fill="#f1e05a"/>
           <text x="248" y="85" font-size="12" fill="#C9D1D9">JavaScript</text>
-          <text x="400" y="85" font-size="12" fill="#8B949E" text-anchor="end">26.1%</text>
+          <text x="400" y="85" font-size="12" fill="#8B949E" text-anchor="end">26.0%</text>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.36s forwards">
           <circle cx="36" cy="109" r="5" fill="#663399"/>
           <text x="48" y="113" font-size="12" fill="#C9D1D9">CSS</text>
-          <text x="200" y="113" font-size="12" fill="#8B949E" text-anchor="end">11.5%</text>
+          <text x="200" y="113" font-size="12" fill="#8B949E" text-anchor="end">11.4%</text>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.44s forwards">
           <circle cx="236" cy="109" r="5" fill="#f7523f"/>
@@ -62,7 +62,7 @@
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.52s forwards">
           <circle cx="36" cy="137" r="5" fill="#3572A5"/>
           <text x="48" y="141" font-size="12" fill="#C9D1D9">Python</text>
-          <text x="200" y="141" font-size="12" fill="#8B949E" text-anchor="end">2.1%</text>
+          <text x="200" y="141" font-size="12" fill="#8B949E" text-anchor="end">2.4%</text>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.6000000000000001s forwards">
           <circle cx="236" cy="137" r="5" fill="#41b883"/>
