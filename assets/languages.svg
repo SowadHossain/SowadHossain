@@ -33,50 +33,50 @@
       <rect x="30" y="55" width="390" height="8" rx="4" fill="#0D1117"/>
       <clipPath id="barClip"><rect x="30" y="55" width="390" height="8" rx="4"/></clipPath>
       <g clip-path="url(#barClip)" style="transform-origin: 30px center; animation: barGrow 1s ease 0.3s both">
-        <rect x="30" y="55" width="203.97" height="8" rx="4" fill="#4F5D95"/><rect x="233.97" y="55" width="101.4" height="8" rx="4" fill="#f1e05a"/><rect x="335.37" y="55" width="44.46" height="8" rx="4" fill="#663399"/><rect x="379.83" y="55" width="18.33" height="8" rx="4" fill="#f7523f"/><rect x="398.15999999999997" y="55" width="9.36" height="8" rx="4" fill="#3572A5"/><rect x="407.52" y="55" width="7.41" height="8" rx="4" fill="#41b883"/><rect x="414.93" y="55" width="2.73" height="8" rx="4" fill="#3178c6"/><rect x="417.66" y="55" width="2.34" height="8" rx="4" fill="#dea584"/>
+        <rect x="30" y="55" width="180.18" height="8" rx="4" fill="#3572A5"/><rect x="210.18" y="55" width="54.99" height="8" rx="4" fill="#3178c6"/><rect x="265.17" y="55" width="51.87" height="8" rx="4" fill="#f1e05a"/><rect x="317.04" y="55" width="41.73" height="8" rx="4" fill="#dea584"/><rect x="358.77000000000004" y="55" width="38.61" height="8" rx="4" fill="#4F5D95"/><rect x="397.38000000000005" y="55" width="11.31" height="8" rx="4" fill="#e34c26"/><rect x="408.69000000000005" y="55" width="7.41" height="8" rx="4" fill="#555555"/><rect x="416.1000000000001" y="55" width="3.9" height="8" rx="4" fill="#199f4b"/>
       </g>
     </g>
 
     <!-- Legend -->
     
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.2s forwards">
-          <circle cx="36" cy="81" r="5" fill="#4F5D95"/>
-          <text x="48" y="85" font-size="12" fill="#C9D1D9">PHP</text>
-          <text x="200" y="85" font-size="12" fill="#8B949E" text-anchor="end">52.3%</text>
+          <circle cx="36" cy="81" r="5" fill="#3572A5"/>
+          <text x="48" y="85" font-size="12" fill="#C9D1D9">Python</text>
+          <text x="200" y="85" font-size="12" fill="#8B949E" text-anchor="end">46.2%</text>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.28s forwards">
-          <circle cx="236" cy="81" r="5" fill="#f1e05a"/>
-          <text x="248" y="85" font-size="12" fill="#C9D1D9">JavaScript</text>
-          <text x="400" y="85" font-size="12" fill="#8B949E" text-anchor="end">26.0%</text>
+          <circle cx="236" cy="81" r="5" fill="#3178c6"/>
+          <text x="248" y="85" font-size="12" fill="#C9D1D9">TypeScript</text>
+          <text x="400" y="85" font-size="12" fill="#8B949E" text-anchor="end">14.1%</text>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.36s forwards">
-          <circle cx="36" cy="109" r="5" fill="#663399"/>
-          <text x="48" y="113" font-size="12" fill="#C9D1D9">CSS</text>
-          <text x="200" y="113" font-size="12" fill="#8B949E" text-anchor="end">11.4%</text>
+          <circle cx="36" cy="109" r="5" fill="#f1e05a"/>
+          <text x="48" y="113" font-size="12" fill="#C9D1D9">JavaScript</text>
+          <text x="200" y="113" font-size="12" fill="#8B949E" text-anchor="end">13.3%</text>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.44s forwards">
-          <circle cx="236" cy="109" r="5" fill="#f7523f"/>
-          <text x="248" y="113" font-size="12" fill="#C9D1D9">Blade</text>
-          <text x="400" y="113" font-size="12" fill="#8B949E" text-anchor="end">4.7%</text>
+          <circle cx="236" cy="109" r="5" fill="#dea584"/>
+          <text x="248" y="113" font-size="12" fill="#C9D1D9">Rust</text>
+          <text x="400" y="113" font-size="12" fill="#8B949E" text-anchor="end">10.7%</text>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.52s forwards">
-          <circle cx="36" cy="137" r="5" fill="#3572A5"/>
-          <text x="48" y="141" font-size="12" fill="#C9D1D9">Python</text>
-          <text x="200" y="141" font-size="12" fill="#8B949E" text-anchor="end">2.4%</text>
+          <circle cx="36" cy="137" r="5" fill="#4F5D95"/>
+          <text x="48" y="141" font-size="12" fill="#C9D1D9">PHP</text>
+          <text x="200" y="141" font-size="12" fill="#8B949E" text-anchor="end">9.9%</text>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.6000000000000001s forwards">
-          <circle cx="236" cy="137" r="5" fill="#41b883"/>
-          <text x="248" y="141" font-size="12" fill="#C9D1D9">Vue</text>
-          <text x="400" y="141" font-size="12" fill="#8B949E" text-anchor="end">1.9%</text>
+          <circle cx="236" cy="137" r="5" fill="#e34c26"/>
+          <text x="248" y="141" font-size="12" fill="#C9D1D9">HTML</text>
+          <text x="400" y="141" font-size="12" fill="#8B949E" text-anchor="end">2.9%</text>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.6799999999999999s forwards">
-          <circle cx="36" cy="165" r="5" fill="#3178c6"/>
-          <text x="48" y="169" font-size="12" fill="#C9D1D9">TypeScript</text>
-          <text x="200" y="169" font-size="12" fill="#8B949E" text-anchor="end">0.7%</text>
+          <circle cx="36" cy="165" r="5" fill="#555555"/>
+          <text x="48" y="169" font-size="12" fill="#C9D1D9">C</text>
+          <text x="200" y="169" font-size="12" fill="#8B949E" text-anchor="end">1.9%</text>
         </g>
         <g opacity="0" style="animation: fadeIn 0.6s ease 0.76s forwards">
-          <circle cx="236" cy="165" r="5" fill="#dea584"/>
-          <text x="248" y="169" font-size="12" fill="#C9D1D9">Rust</text>
-          <text x="400" y="169" font-size="12" fill="#8B949E" text-anchor="end">0.6%</text>
+          <circle cx="236" cy="165" r="5" fill="#199f4b"/>
+          <text x="248" y="169" font-size="12" fill="#C9D1D9">Vim Script</text>
+          <text x="400" y="169" font-size="12" fill="#8B949E" text-anchor="end">1.0%</text>
         </g>
     </svg>
